@@ -1,0 +1,11 @@
+Name of QuantLet : 'CCA'
+
+Published in : 'CSBD Project' 
+
+Description : 'The process of aligning dimension of Consumer and Seller behavior'
+
+Keywords : 'CSBD, CCA'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Tue, Dec 12 2023
