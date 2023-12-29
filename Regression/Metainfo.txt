@@ -1,0 +1,11 @@
+Name of QuantLet : 'Regression'
+
+Published in : 'CSBD Project' 
+
+Description : 'The process of regression of CSBD-return'
+
+Keywords : 'kinked regression, breakpoint regression'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Fri, Dec 29 2023
