@@ -1,0 +1,11 @@
+Name of QuantLet : 'Smooth'
+
+Published in : 'CSBD Project' 
+
+Description : 'The process of smooth the plot of CSBD-return'
+
+Keywords : 'Nadaraya-Watson kernel regression, GM Estimator, Derivative Estimation'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Fri, Dec 29 2023
