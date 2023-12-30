@@ -1,0 +1,11 @@
+Name of QuantLet : 'EmoVisual'
+
+Published in : 'CSBD Project' 
+
+Description : 'The process of visualizing emotion positive'
+
+Keywords : 'plot, sentiment, visualize'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Sun, Dec 31 2023
