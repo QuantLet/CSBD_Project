@@ -1,4 +1,4 @@
-,emo_pos,emo_neg,vocalarousal,vocalvalence,vocalpositive,vocalnegative
+,pos_no,emo_neg,vocalarousal,vocalvalence,neg_p,vocalnegative
 0,232.0,75.0,0.34,0.32,0.39,0.0
 1,191.0,77.0,0.54,0.62,0.08,0.72
 2,151.0,38.0,0.51,0.02,0.82,0.01
