@@ -1,0 +1,11 @@
+Name of QuantLet : 'CCA20'
+
+Published in : 'CSBD Project' 
+
+Description : 'The process of regression of CCA with 20 variables'
+
+Keywords : 'CCA, visualize'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Mon, Jan 1 2024
