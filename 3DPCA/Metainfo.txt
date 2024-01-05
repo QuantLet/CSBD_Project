@@ -1,0 +1,11 @@
+Name of QuantLet : '3DPCA'
+
+Published in : 'CSBD Project' 
+
+Description : 'the 3D plotly result of PCA'
+
+Keywords : 'PCA, plotly'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Fri, Jan 05 2024
