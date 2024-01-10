@@ -1,0 +1,11 @@
+Name of QuantLet : '3DPCASeller&Consumer'
+
+Published in : 'CSBD Project' 
+
+Description : 'the 3D plotly result of PCA for Seller and Consumer'
+
+Keywords : 'PCA, plotly'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Fri, Jan 10 2024
